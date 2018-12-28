@@ -1,0 +1,4 @@
+name: data-feeds-analysis
+dependencies:
+  - python>=3.4
+  - pandas
